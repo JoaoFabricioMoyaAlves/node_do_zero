@@ -38,5 +38,5 @@ Esta API permite **armazenar, listar, atualizar e remover vídeos do YouTube**, 
 ### 📦 Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/node-do-zero.git
+git clone https://github.com/JoaoFabricioMoyaAlves/node_do_zero.git
 cd node-do-zero
